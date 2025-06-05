@@ -1,4 +1,6 @@
 streamlit
 numpy
-onnxruntime
 pandas
+onnxruntime
+pillow
+openpyxl
