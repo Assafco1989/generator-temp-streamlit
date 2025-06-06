@@ -1,4 +1,3 @@
-Time,MW,MVAR,Oil Pressure,Temperature,Vibration,Shaft,Status
-2025-06-04 22:56:21,277,-20,295.0,94.679184,1.3,20.2,🟢 Normal
-2025-06-04 22:57:07,277,-33,292.0,95.147865,1.36,20.33,🟡 Warning
-2025-06-04 22:57:14,277,-32,292.0,94.89583,1.36,20.32,🟢 Normal
+Time,MW,MVAR,Oil Pressure,Temperature,Status
+2025-06-06 16:30:51,280,-43,295.0,95.7033,🟡 Warning
+2025-06-06 16:30:56,280,-55,295.0,96.098816,🟡 Warning
